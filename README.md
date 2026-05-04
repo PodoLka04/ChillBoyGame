@@ -25,9 +25,9 @@
 - **Атмосфера:** Наслаждайся расслабляющей музыкой и мемными бонусами.
 
 ## 🖼️ Скриншоты
-
-![Скриншот геймплея 1](Screenshots/screenshot1.png)
-![Скриншот геймплея 2](Screenshots/screenshot2.png)
+<img width="1920" height="1080" alt="image (6)" src="https://github.com/user-attachments/assets/24e519f4-7360-463d-a519-c08f11c50607" />
+<img width="1920" height="1080" alt="image (5)" src="https://github.com/user-attachments/assets/5c2f873f-83aa-4be5-9afd-f4bc5f662f57" />
+<img width="1920" height="1080" alt="image (4)" src="https://github.com/user-attachments/assets/c46de23b-3b1c-44e2-b6ca-1d418ba9696f" />
 
 ## 🎮 Управление
 
@@ -44,7 +44,6 @@
 | Файл / Папка | Описание |
 |--------------|----------|
 | `ChillGuy/` | Все ресурсы проекта (скрипты, сцены, спрайты, звуки, настройки) |
-| `Screenshots/` | Скриншоты игры для README |
 | `.gitignore` | Файл игнорирования Git |
 | `README.md` | Описание проекта |
 
@@ -90,9 +89,9 @@ The project was created for the **Yandex Games** platform in profit.
 - **Vibe:** Enjoy relaxing music and meme bonuses.
 
 ## 🖼️ Screenshots
-
-![Gameplay screenshot 1](Screenshots/screenshot1.png)
-![Gameplay screenshot 2](Screenshots/screenshot2.png)
+<img width="1920" height="1080" alt="image (6)" src="https://github.com/user-attachments/assets/24e519f4-7360-463d-a519-c08f11c50607" />
+<img width="1920" height="1080" alt="image (5)" src="https://github.com/user-attachments/assets/5c2f873f-83aa-4be5-9afd-f4bc5f662f57" />
+<img width="1920" height="1080" alt="image (4)" src="https://github.com/user-attachments/assets/c46de23b-3b1c-44e2-b6ca-1d418ba9696f" />
 
 ## 🎮 Controls
 
@@ -109,7 +108,6 @@ The project was created for the **Yandex Games** platform in profit.
 | File / Folder | Description |
 |---------------|-------------|
 | `ChillGuy/` | All project resources (scripts, scenes, sprites, audio, settings) |
-| `Screenshots/` | Game screenshots for README |
 | `.gitignore` | Git ignore file |
 | `README.md` | Project description |
 
