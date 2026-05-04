@@ -43,21 +43,21 @@
 
 | Файл / Папка | Описание |
 |--------------|----------|
-| `ChillGuy/` | Все ресурсы проекта (скрипты, сцены, спрайты, звуки, настройки) |
+| `CHill/` | Все ресурсы проекта (скрипты, сцены, спрайты, звуки, настройки) |
 | `.gitignore` | Файл игнорирования Git |
 | `README.md` | Описание проекта |
 
 ## 🚀 Сборка и запуск
 
 1. Скачайте репозиторий.
-2. Откройте проект в Unity (версию смотрите в `ChillGuy/ProjectSettings/ProjectVersion.txt`).
-3. Для запуска в редакторе откройте сцену `ChillGuy/Assets/Scenes/MainScene.unity` и нажмите `Play`.
+2. Откройте проект в Unity (версию смотрите в `CHill/ProjectSettings/ProjectVersion.txt`).
+3. Для запуска в редакторе откройте сцену `CHill/Assets/Scenes/MainScene.unity` и нажмите `Play`.
 4. Для публикации на Yandex Games соберите проект в **WebGL** через `File → Build Settings`.
 5. Загрузите сборку в личном кабинете разработчика Yandex Games.
 
 ## 🛠 Используемые технологии
 
-- Unity (версия из `ChillGuy/ProjectSettings/ProjectVersion.txt`)
+- Unity (версия из `CHill/ProjectSettings/ProjectVersion.txt`)
 - C#
 - Unity UI
 - WebGL
@@ -107,21 +107,21 @@ The project was created for the **Yandex Games** platform in profit.
 
 | File / Folder | Description |
 |---------------|-------------|
-| `ChillGuy/` | All project resources (scripts, scenes, sprites, audio, settings) |
+| `CHill/` | All project resources (scripts, scenes, sprites, audio, settings) |
 | `.gitignore` | Git ignore file |
 | `README.md` | Project description |
 
 ## 🚀 Build and run
 
 1. Download the repository.
-2. Open the project in Unity (check the version in `ChillGuy/ProjectSettings/ProjectVersion.txt`).
-3. To run in the editor, open `ChillGuy/Assets/Scenes/MainScene.unity` and press `Play`.
+2. Open the project in Unity (check the version in `CHill/ProjectSettings/ProjectVersion.txt`).
+3. To run in the editor, open `CHill/Assets/Scenes/MainScene.unity` and press `Play`.
 4. For publishing on Yandex Games, build the project to **WebGL** via `File → Build Settings`.
 5. Upload the build to your Yandex Games developer dashboard.
 
 ## 🛠 Technologies used
 
-- Unity (version from `ChillGuy/ProjectSettings/ProjectVersion.txt`)
+- Unity (version from `CHill/ProjectSettings/ProjectVersion.txt`)
 - C#
 - Unity UI
 - WebGL
